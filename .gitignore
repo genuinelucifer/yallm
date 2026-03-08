@@ -4,4 +4,7 @@ __pycache__/
 gpt2/
 *.pth
 gpt_download.py
-
+*.zip
+*.pdf
+*.csv
+sms_spam_collection/
