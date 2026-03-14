@@ -8,3 +8,5 @@ gpt_download.py
 *.pdf
 *.csv
 sms_spam_collection/
+*.json
+*.txt
